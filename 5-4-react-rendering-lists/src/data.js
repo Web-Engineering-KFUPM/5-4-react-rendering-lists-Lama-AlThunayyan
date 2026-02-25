@@ -10,7 +10,7 @@ export const sampleCourses = [
   {
     id: "ICS-104",
     title: "Python",
-    tasks: [],
+    tasks: [{ id: "t1", title: "Understand while loops",  dueDate: "2025-10-09", isDone: false }],
   },
   {
     id: "ICS-500",
